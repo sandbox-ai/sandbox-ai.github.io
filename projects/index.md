@@ -1,9 +1,6 @@
 ---
 layout: project
-title: All Projects
-excerpt: "A List of Projects"
+title: Nuestros Proyectos
+excerpt: "Listado de proyectos"
 comments: false
 ---
-
-
-Esto donde aparece???
