@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "sandbox-labs.ai"
+  navbar:
+    left:
+      - href: home.qmd
+        text: Home
+      - href: llms_home.qmd
+        text: LLMs
+      - href: robotica_home.qmd
+        text: Robótica
+      - href: ciberseguridad_home.qmd
+        text: cyberSeguriadad
+      - href: legaltech_home.qmd
+        text: LegalTech
+      - file: _site/manuscript/index.html
+        text: Research
+      - href: about.qmd
+        text: Acera de 
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
