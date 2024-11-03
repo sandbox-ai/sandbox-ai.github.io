@@ -1,31 +1,17 @@
 [
   {
-    "objectID": "legaltech_home.html",
-    "href": "legaltech_home.html",
-    "title": "legaltech",
-    "section": "",
-    "text": "holis"
-  },
-  {
-    "objectID": "llms_home.html",
-    "href": "llms_home.html",
+    "objectID": "about.html",
+    "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site"
   },
   {
-    "objectID": "manuscript/index.html",
-    "href": "manuscript/index.html",
-    "title": "manuscripts",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "sandbox-ai.github.io",
     "section": "",
-    "text": "This is a simple placeholder for the manuscript’s main document (Knuth 1984)."
-  },
-  {
-    "objectID": "manuscript/index.html#section",
-    "href": "manuscript/index.html#section",
-    "title": "manuscripts",
-    "section": "",
-    "text": "This is a simple placeholder for the manuscript’s main document (Knuth 1984)."
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "home.html",
@@ -35,10 +21,38 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
+    "objectID": "llms_home.html",
+    "href": "llms_home.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
     "objectID": "ciberseguridad_home.html",
     "href": "ciberseguridad_home.html",
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "manuscripts/index.html",
+    "href": "manuscripts/index.html",
+    "title": "manuscripts",
+    "section": "",
+    "text": "This is a simple placeholder for the manuscript’s main document (Knuth 1984)."
+  },
+  {
+    "objectID": "manuscripts/index.html#section",
+    "href": "manuscripts/index.html#section",
+    "title": "manuscripts",
+    "section": "",
+    "text": "This is a simple placeholder for the manuscript’s main document (Knuth 1984)."
+  },
+  {
+    "objectID": "legaltech_home.html",
+    "href": "legaltech_home.html",
+    "title": "legaltech",
+    "section": "",
+    "text": "holis"
   }
 ]
